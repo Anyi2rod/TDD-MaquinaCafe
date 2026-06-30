@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YOGA 730\\OneDrive\\Escritorio\\ing.software}\\MaquinaCafeTDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EADBEB5-28EE-4C4F-9F5B-16B6411D4F90}|MaquinaCafe\\MaquinaCafe.csproj|c:\\users\\yoga 730\\onedrive\\escritorio\\ing.software}\\maquinacafetdd\\maquinacafe\\services\\maquinadecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EADBEB5-28EE-4C4F-9F5B-16B6411D4F90}|MaquinaCafe\\MaquinaCafe.csproj|solutionrelative:maquinacafe\\services\\maquinadecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EADBEB5-28EE-4C4F-9F5B-16B6411D4F90}|MaquinaCafe\\MaquinaCafe.csproj|c:\\users\\yoga 730\\onedrive\\escritorio\\ing.software}\\maquinacafetdd\\maquinacafe\\models\\vaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EADBEB5-28EE-4C4F-9F5B-16B6411D4F90}|MaquinaCafe\\MaquinaCafe.csproj|solutionrelative:maquinacafe\\models\\vaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EADBEB5-28EE-4C4F-9F5B-16B6411D4F90}|MaquinaCafe\\MaquinaCafe.csproj|c:\\users\\yoga 730\\onedrive\\escritorio\\ing.software}\\maquinacafetdd\\maquinacafe\\models\\cafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EADBEB5-28EE-4C4F-9F5B-16B6411D4F90}|MaquinaCafe\\MaquinaCafe.csproj|solutionrelative:maquinacafe\\models\\cafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9E8CD1-BEE1-468E-AF22-9B72910C0DDE}|MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj|c:\\users\\yoga 730\\onedrive\\escritorio\\ing.software}\\maquinacafetdd\\maquinacafe.tests\\testcafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9E8CD1-BEE1-468E-AF22-9B72910C0DDE}|MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj|solutionrelative:maquinacafe.tests\\testcafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EADBEB5-28EE-4C4F-9F5B-16B6411D4F90}|MaquinaCafe\\MaquinaCafe.csproj|c:\\users\\yoga 730\\onedrive\\escritorio\\ing.software}\\maquinacafetdd\\maquinacafe\\models\\azucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EADBEB5-28EE-4C4F-9F5B-16B6411D4F90}|MaquinaCafe\\MaquinaCafe.csproj|solutionrelative:maquinacafe\\models\\azucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9E8CD1-BEE1-468E-AF22-9B72910C0DDE}|MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj|c:\\users\\yoga 730\\onedrive\\escritorio\\ing.software}\\maquinacafetdd\\maquinacafe.tests\\testmaquinadecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9E8CD1-BEE1-468E-AF22-9B72910C0DDE}|MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj|solutionrelative:maquinacafe.tests\\testmaquinadecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9E8CD1-BEE1-468E-AF22-9B72910C0DDE}|MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj|c:\\users\\yoga 730\\onedrive\\escritorio\\ing.software}\\maquinacafetdd\\maquinacafe.tests\\testazucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9E8CD1-BEE1-468E-AF22-9B72910C0DDE}|MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj|solutionrelative:maquinacafe.tests\\testazucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9E8CD1-BEE1-468E-AF22-9B72910C0DDE}|MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj|c:\\users\\yoga 730\\onedrive\\escritorio\\ing.software}\\maquinacafetdd\\maquinacafe.tests\\testvaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9E8CD1-BEE1-468E-AF22-9B72910C0DDE}|MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj|solutionrelative:maquinacafe.tests\\testvaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 358,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaquinaDeCafe.cs",
+              "DocumentMoniker": "C:\\Users\\YOGA 730\\OneDrive\\Escritorio\\ing.software}\\MaquinaCafeTDD\\MaquinaCafe\\services\\MaquinaDeCafe.cs",
+              "RelativeDocumentMoniker": "MaquinaCafe\\services\\MaquinaDeCafe.cs",
+              "ToolTip": "C:\\Users\\YOGA 730\\OneDrive\\Escritorio\\ing.software}\\MaquinaCafeTDD\\MaquinaCafe\\services\\MaquinaDeCafe.cs",
+              "RelativeToolTip": "MaquinaCafe\\services\\MaquinaDeCafe.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T02:03:14.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestMaquinaDeCafe.cs",
+              "DocumentMoniker": "C:\\Users\\YOGA 730\\OneDrive\\Escritorio\\ing.software}\\MaquinaCafeTDD\\MaquinaCafe.Tests\\TestMaquinaDeCafe.cs",
+              "RelativeDocumentMoniker": "MaquinaCafe.Tests\\TestMaquinaDeCafe.cs",
+              "ToolTip": "C:\\Users\\YOGA 730\\OneDrive\\Escritorio\\ing.software}\\MaquinaCafeTDD\\MaquinaCafe.Tests\\TestMaquinaDeCafe.cs",
+              "RelativeToolTip": "MaquinaCafe.Tests\\TestMaquinaDeCafe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T01:32:58.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestCafetera.cs",
+              "DocumentMoniker": "C:\\Users\\YOGA 730\\OneDrive\\Escritorio\\ing.software}\\MaquinaCafeTDD\\MaquinaCafe.Tests\\TestCafetera.cs",
+              "RelativeDocumentMoniker": "MaquinaCafe.Tests\\TestCafetera.cs",
+              "ToolTip": "C:\\Users\\YOGA 730\\OneDrive\\Escritorio\\ing.software}\\MaquinaCafeTDD\\MaquinaCafe.Tests\\TestCafetera.cs",
+              "RelativeToolTip": "MaquinaCafe.Tests\\TestCafetera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T01:30:09.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Azucarero.cs",
+              "DocumentMoniker": "C:\\Users\\YOGA 730\\OneDrive\\Escritorio\\ing.software}\\MaquinaCafeTDD\\MaquinaCafe\\models\\Azucarero.cs",
+              "RelativeDocumentMoniker": "MaquinaCafe\\models\\Azucarero.cs",
+              "ToolTip": "C:\\Users\\YOGA 730\\OneDrive\\Escritorio\\ing.software}\\MaquinaCafeTDD\\MaquinaCafe\\models\\Azucarero.cs",
+              "RelativeToolTip": "MaquinaCafe\\models\\Azucarero.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T01:15:51.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cafetera.cs",
+              "DocumentMoniker": "C:\\Users\\YOGA 730\\OneDrive\\Escritorio\\ing.software}\\MaquinaCafeTDD\\MaquinaCafe\\models\\Cafetera.cs",
+              "RelativeDocumentMoniker": "MaquinaCafe\\models\\Cafetera.cs",
+              "ToolTip": "C:\\Users\\YOGA 730\\OneDrive\\Escritorio\\ing.software}\\MaquinaCafeTDD\\MaquinaCafe\\models\\Cafetera.cs",
+              "RelativeToolTip": "MaquinaCafe\\models\\Cafetera.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T01:14:54.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vaso.cs",
+              "DocumentMoniker": "C:\\Users\\YOGA 730\\OneDrive\\Escritorio\\ing.software}\\MaquinaCafeTDD\\MaquinaCafe\\models\\Vaso.cs",
+              "RelativeDocumentMoniker": "MaquinaCafe\\models\\Vaso.cs",
+              "ToolTip": "C:\\Users\\YOGA 730\\OneDrive\\Escritorio\\ing.software}\\MaquinaCafeTDD\\MaquinaCafe\\models\\Vaso.cs",
+              "RelativeToolTip": "MaquinaCafe\\models\\Vaso.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T01:13:37.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestAzucarero.cs",
+              "DocumentMoniker": "C:\\Users\\YOGA 730\\OneDrive\\Escritorio\\ing.software}\\MaquinaCafeTDD\\MaquinaCafe.Tests\\TestAzucarero.cs",
+              "RelativeDocumentMoniker": "MaquinaCafe.Tests\\TestAzucarero.cs",
+              "ToolTip": "C:\\Users\\YOGA 730\\OneDrive\\Escritorio\\ing.software}\\MaquinaCafeTDD\\MaquinaCafe.Tests\\TestAzucarero.cs",
+              "RelativeToolTip": "MaquinaCafe.Tests\\TestAzucarero.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T01:31:45.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestVaso.cs",
+              "DocumentMoniker": "C:\\Users\\YOGA 730\\OneDrive\\Escritorio\\ing.software}\\MaquinaCafeTDD\\MaquinaCafe.Tests\\TestVaso.cs",
+              "RelativeDocumentMoniker": "MaquinaCafe.Tests\\TestVaso.cs",
+              "ToolTip": "C:\\Users\\YOGA 730\\OneDrive\\Escritorio\\ing.software}\\MaquinaCafeTDD\\MaquinaCafe.Tests\\TestVaso.cs",
+              "RelativeToolTip": "MaquinaCafe.Tests\\TestVaso.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T01:28:13.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 42,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

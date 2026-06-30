@@ -1,0 +1,14 @@
+C:\Users\YOGA 730\OneDrive\Escritorio\ing.software}\MaquinaCafeTDD\MaquinaCafe\bin\Debug\net8.0\MaquinaCafe.exe
+C:\Users\YOGA 730\OneDrive\Escritorio\ing.software}\MaquinaCafeTDD\MaquinaCafe\bin\Debug\net8.0\MaquinaCafe.deps.json
+C:\Users\YOGA 730\OneDrive\Escritorio\ing.software}\MaquinaCafeTDD\MaquinaCafe\bin\Debug\net8.0\MaquinaCafe.runtimeconfig.json
+C:\Users\YOGA 730\OneDrive\Escritorio\ing.software}\MaquinaCafeTDD\MaquinaCafe\bin\Debug\net8.0\MaquinaCafe.dll
+C:\Users\YOGA 730\OneDrive\Escritorio\ing.software}\MaquinaCafeTDD\MaquinaCafe\bin\Debug\net8.0\MaquinaCafe.pdb
+C:\Users\YOGA 730\OneDrive\Escritorio\ing.software}\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOGA 730\OneDrive\Escritorio\ing.software}\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.AssemblyInfoInputs.cache
+C:\Users\YOGA 730\OneDrive\Escritorio\ing.software}\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.AssemblyInfo.cs
+C:\Users\YOGA 730\OneDrive\Escritorio\ing.software}\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.csproj.CoreCompileInputs.cache
+C:\Users\YOGA 730\OneDrive\Escritorio\ing.software}\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.dll
+C:\Users\YOGA 730\OneDrive\Escritorio\ing.software}\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8.0\refint\MaquinaCafe.dll
+C:\Users\YOGA 730\OneDrive\Escritorio\ing.software}\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.pdb
+C:\Users\YOGA 730\OneDrive\Escritorio\ing.software}\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.genruntimeconfig.cache
+C:\Users\YOGA 730\OneDrive\Escritorio\ing.software}\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8.0\ref\MaquinaCafe.dll
